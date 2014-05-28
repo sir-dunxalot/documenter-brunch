@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/sir-dunxalot/documenter-brunch",
   "dependencies": {
-    "yuidocjs": "^0.3.50"
+    "yuidocjs": "^0.3.50",
+    "express": "^4.3.1"
   }
 }
