@@ -1,7 +1,7 @@
 documenter-brunch
 =================
 
-##EARLY STAGE - DON'T USE
+###EARLY STAGE - DON'T USE BECAUSE IT DOESN'T WORK
 
 Live generate and style documentation for your brunch-based app
 
